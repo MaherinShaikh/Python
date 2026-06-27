@@ -2,7 +2,6 @@
 
 from curses.ascii import islower
 
-
 a = "Maherin!!!"
 print(len(a))
 print(a.upper())

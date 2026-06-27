@@ -20,3 +20,4 @@ print(type(b))
 c = 33
 d = c
 print(d)
+
