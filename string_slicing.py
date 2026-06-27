@@ -10,7 +10,7 @@ fruit2 = "banana"
 bananalen = len(fruit2)
 print(bananalen)
 
-print(fruit[0:4])  # mang
+print(fruit[0:4])  # mang including 0 but not 4.  4-1
 print(fruit[1:4])  # ang
 print(fruit[2:4])  # ng
 print(fruit[2:])   # ngo  # ngo
@@ -20,3 +20,7 @@ print(fruit[-4:-1])  # ang
 print(fruit[-4:])     # ango
 print(fruit[:-1])     # mang.   lenfruit - 1
 print(fruit[-1:])     # o
+
+
+nm = "Maherin"
+print(nm[-4:-2])  # heri
