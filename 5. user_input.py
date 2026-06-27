@@ -23,3 +23,4 @@ print(int(x) / int(y))  #typecasting string to int and dividing
 print(int(x) // int(y))  #typecasting string to int and floor dividing
 print(int(x) % int(y))  #typecasting string to int and modulus
 print(int(x) ** int(y))  #typecasting string to int and exponentiation
+
