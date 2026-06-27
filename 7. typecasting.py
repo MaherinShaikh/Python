@@ -24,4 +24,3 @@ print(int(e)+int(f))  #typecasting string to int
 g = 1.5  #float
 h = 2   
 print(g+h)  #int converted to float automatically
-
